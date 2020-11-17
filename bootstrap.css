@@ -4968,7 +4968,11 @@ input[type="button"].btn-block {
   padding: 0.75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
+<<<<<<< Updated upstream
   background-color: #e9ecef;
+=======
+  background-color: #5d90c4;
+>>>>>>> Stashed changes
   border-radius: 0.25rem;
 }
 
@@ -4984,8 +4988,13 @@ input[type="button"].btn-block {
 .breadcrumb-item + .breadcrumb-item::before {
   display: inline-block;
   padding-right: 0.5rem;
+<<<<<<< Updated upstream
   color: #6c757d;
   content: "/";
+=======
+  color: #ffffff;
+  content: "\219D";
+>>>>>>> Stashed changes
 }
 
 .breadcrumb-item + .breadcrumb-item:hover::before {
@@ -4997,7 +5006,11 @@ input[type="button"].btn-block {
 }
 
 .breadcrumb-item.active {
+<<<<<<< Updated upstream
   color: #6c757d;
+=======
+  color: #ffffff;
+>>>>>>> Stashed changes
 }
 
 .pagination {
